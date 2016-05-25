@@ -35,7 +35,7 @@ g <- g + ggtitle("Total steps per day")
 print(g)
 ```
 
-![](/Users/Dmitriy/Downloads/04. Data Science/WorkDir/Project_1/PA1_template_files/figure-html/unnamed-chunk-4-1.png)<!-- -->
+![](PA1_template_files/figure-html/unnamed-chunk-4-1.png)<!-- -->
 
 Calculating the mean and median of the total number of steps taken per day
 
@@ -83,7 +83,7 @@ g <- g + ggtitle("Average number of steps per 5-minute interval")
 print(g)
 ```
 
-![](/Users/Dmitriy/Downloads/04. Data Science/WorkDir/Project_1/PA1_template_files/figure-html/unnamed-chunk-8-1.png)<!-- -->
+![](PA1_template_files/figure-html/unnamed-chunk-8-1.png)<!-- -->
 
 ## Imputing missing values
 
@@ -126,7 +126,7 @@ g <- g + ggtitle("Total steps per day")
 print(g)
 ```
 
-![](/Users/Dmitriy/Downloads/04. Data Science/WorkDir/Project_1/PA1_template_files/figure-html/unnamed-chunk-12-1.png)<!-- -->
+![](PA1_template_files/figure-html/unnamed-chunk-12-1.png)<!-- -->
 
 Calculating the mean and median of the total number of steps taken per day:
 
@@ -193,5 +193,5 @@ g <- g + ggtitle("Average number of steps per 5-minute interval")
 print(g)
 ```
 
-![](/Users/Dmitriy/Downloads/04. Data Science/WorkDir/Project_1/PA1_template_files/figure-html/unnamed-chunk-16-1.png)<!-- -->
+![](PA1_template_files/figure-html/unnamed-chunk-16-1.png)<!-- -->
 
